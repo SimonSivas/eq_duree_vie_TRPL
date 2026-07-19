@@ -16,15 +16,16 @@ Création de porteurs (paire éectron-trou)
       │
       ▼
 Recombinaisons 
+
  ├── SRH
+ 
  ├── Radiative
+ 
  └── Auger
  
       │
       ▼
 Photoluminescence
-
-## Contexte physique
 
 La photoluminescence résolue en temps (**Time-Resolved Photoluminescence – TRPL**) est une technique permettant d'étudier la dynamique des porteurs de charge dans un semi-conducteur après une excitation par une impulsion laser.
 
