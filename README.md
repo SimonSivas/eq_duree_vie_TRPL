@@ -7,15 +7,19 @@ Ce projet modélise la dynamique de recombinaison des porteurs générés par un
 ## Contexte physique
 
 Laser pulsé sur le semi conducteur dopé 
+
       │
       ▼
+      
 Création de porteurs (paire éectron-trou)
+
       │
       ▼
 Recombinaisons 
  ├── SRH
  ├── Radiative
  └── Auger
+ 
       │
       ▼
 Photoluminescence
