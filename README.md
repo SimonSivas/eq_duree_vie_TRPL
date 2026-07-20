@@ -6,27 +6,6 @@ Ce projet modélise la dynamique de recombinaison des porteurs générés par un
 
 ## Contexte physique
 
-Laser pulsé sur le semi conducteur dopé 
-
-      │
-      ▼
-      
-Création de porteurs (paire éectron-trou)
-
-      │
-      ▼
-Recombinaisons 
-
- ├── SRH
- 
- ├── Radiative
- 
- └── Auger
- 
-      │
-      ▼
-Photoluminescence
-
 La photoluminescence résolue en temps (**Time-Resolved Photoluminescence – TRPL**) est une technique permettant d'étudier la dynamique des porteurs de charge dans un semi-conducteur après une excitation par une impulsion laser.
 
 Lorsque l'énergie des photons incidents est supérieure à la largeur de bande interdite du matériau E_photon > E_gap, des paires électron-trou sont créées. Après l'impulsion laser, ces porteurs se recombinent progressivement selon différents mécanismes : la recombinaison **Shockley-Read-Hall (SRH)**, la recombinaison **radiative** et la recombinaison **Auger**.
